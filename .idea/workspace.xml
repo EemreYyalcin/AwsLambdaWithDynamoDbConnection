@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d22c74e-b66c-4783-b55d-ca38d0bd005c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d22c74e-b66c-4783-b55d-ca38d0bd005c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -299,16 +296,15 @@
       <updated>1547548994384</updated>
       <workItem from="1547548995679" duration="6821000" />
       <workItem from="1547621494503" duration="9105000" />
-      <workItem from="1547711517858" duration="8649000" />
+      <workItem from="1547711517858" duration="8913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24575000" />
+    <option name="totallyTimeSpent" value="24839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1334" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.14614774" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.14495632" />
