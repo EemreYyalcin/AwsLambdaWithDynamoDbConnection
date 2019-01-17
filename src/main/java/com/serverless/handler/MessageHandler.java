@@ -8,7 +8,7 @@ import com.serverless.message.Response;
 import com.serverless.message.ApiGatewayResponse;
 import com.serverless.model.Event;
 import com.serverless.model.LambdaConnection;
-import com.serverless.utill.dynamodb.DynamoDbConnection;
+import com.serverless.util.DynamoDbConnection;
 
 import java.time.LocalDate;
 import java.util.Collections;

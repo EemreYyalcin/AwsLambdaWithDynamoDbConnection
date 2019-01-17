@@ -1,4 +1,4 @@
-package com.serverless.utill.dynamodb;
+package com.serverless.util;
 
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBAsyncClientBuilder;
@@ -8,7 +8,6 @@ import com.amazonaws.services.dynamodbv2.model.CreateTableRequest;
 import com.amazonaws.services.dynamodbv2.model.DescribeTableResult;
 import com.amazonaws.services.dynamodbv2.model.ProvisionedThroughput;
 import com.amazonaws.services.dynamodbv2.model.ResourceNotFoundException;
-import com.serverless.model.Event;
 
 public class DynamoDbConnection {
 
@@ -16,7 +15,6 @@ public class DynamoDbConnection {
     private DynamoDBMapper dynamoDBMapper;
 
     private DynamoDbConnection() {
-
     }
 
     public static DynamoDbConnection createConnection(){
