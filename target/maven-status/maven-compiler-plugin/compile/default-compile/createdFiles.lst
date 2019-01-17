@@ -1,0 +1,9 @@
+com/serverless/model/User.class
+com/serverless/model/LambdaConnection.class
+com/serverless/message/ApiGatewayResponse$Builder.class
+com/serverless/handler/MessageHandler.class
+com/serverless/util/DynamoDbConnection.class
+com/serverless/message/Response.class
+com/serverless/message/ApiGatewayResponse.class
+com/serverless/model/Event.class
+com/serverless/handler/ConnectedHandler.class
