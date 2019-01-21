@@ -92,13 +92,6 @@
                         <goals>
                             <goal>shade</goal>
                         </goals>
-                        <configuration>
-                            <transformers>
-                                <transformer
-                                        implementation="com.github.edwgiz.mavenShadePlugin.log4j2CacheTransformer.PluginsCacheFileTransformer">
-                                </transformer>
-                            </transformers>
-                        </configuration>
                     </execution>
                 </executions>
                 <dependencies>
